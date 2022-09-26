@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/karamokoisrael/directus-electron)__.
+- I’m currently working on __[Directus-Electron](https://github.com/karamokoisrael/directus-electron)__.
 - I’m currently learning __Machine learning__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
