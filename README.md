@@ -2,6 +2,8 @@
 
 ## Hello, I'm Israel Karamoko
 
+
+#### I am a self-taught developer specializing in web and mobile applications. My interests encompass problem-solving, research, mathematics, programming, artificial intelligence, IOT and music. Fluent in French (my native language) and English, I am also in the process of learning Chinese. I thrive in collaborative environments and am enthusiastic about being part of a team dedicated to addressing real-world challenges.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -13,17 +15,10 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-**About Me:**
+**Curious to learn more about me ?:**
 
-- I am a self-taught developer specializing in web and mobile
-  applications. My interests encompass problem-solving, research,
-  mathematics, programming, artificial intelligence, IOT and music. Fluent
-  in French (my native language) and English, I am also in the process
-  of learning Chinese. I thrive in collaborative environments and am
-  enthusiastic about being part of a team dedicated to addressing
-  real-world challenges.
 - I’m currently working on **[Directus-Electron](https://github.com/karamokoisrael/directus-electron)**.
-- I’m currently learning **Machine learning**.
+- I’m currently learning **Electric circuits** and **Machine learning**.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I'll be glad to help.
 - How to reach me: **karamokoisrael@gmail.com**
@@ -86,4 +81,4 @@ You can use the website to generate badges: https://shields.io/
   
 </p>
 
-Last Edited on: 26/09/2022
+Last Edited on: 06/01/2024
