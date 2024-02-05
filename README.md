@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently learning **Electric circuits** and **Machine learning**.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I'll be glad to help.
-- How to reach me: **karamokoisrael@gmail.com**
+- How to reach me: **contact@karamokoisrael.tech**
 
 ---
 
