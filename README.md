@@ -2,17 +2,16 @@
 
 ## Hello, I'm Israel Karamoko
 
-
 #### I am a self-taught developer specializing in web and mobile applications. My interests encompass problem-solving, research, mathematics, programming, artificial intelligence, IOT and music. Fluent in French (my native language) and English, I am also in the process of learning Chinese. I thrive in collaborative environments and am enthusiastic about being part of a team dedicated to addressing real-world challenges.
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://karamokoisrael.tech)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isra%C3%ABl-karamoko-08b643201/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-karamoko/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/israelKaramoko)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/karamokoisrael)
-
 
 &nbsp;
 
