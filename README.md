@@ -11,14 +11,16 @@ You can use the website to generate badges: https://shields.io/
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://karamokoisrael.tech)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-karamoko/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/israelKaramoko)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/karamokoisrael)
+
+<!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/karamokoisrael) -->
 
 &nbsp;
 
 **Curious to learn more about me ?:**
 
-- I’m currently working on **[Directus-Electron](https://github.com/karamokoisrael/directus-electron)**.
-- I’m currently learning **Electric circuits** and **Machine learning**.
+<!-- - I’m currently working on **[Directus-Electron](https://github.com/karamokoisrael/directus-electron)**. -->
+
+- I’m currently learning **Robotics** and **Blockchain technology**.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I'll be glad to help.
 - How to reach me: **contact@karamokoisrael.tech**
