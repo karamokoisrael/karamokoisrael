@@ -2,7 +2,7 @@
 
 ## Hello, I'm Israel Karamoko
 
-#### I am a self-taught developer specializing in web and mobile applications. My interests encompass problem-solving, research, mathematics, programming, artificial intelligence, IOT and music. Fluent in French (my native language) and English, I am also in the process of learning Chinese. I thrive in collaborative environments and am enthusiastic about being part of a team dedicated to addressing real-world challenges.
+#### I am a self-taught software developer specializing in web and back-end development. My interests encompass problem-solving, research, mathematics, blockchain, AI, IOT and music. Fluent in French (my native language) and English, I am also in the process of learning Chinese. I thrive in collaborative environments and am enthusiastic about being part of a team dedicated to addressing real-world challenges.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
