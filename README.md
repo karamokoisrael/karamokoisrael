@@ -18,17 +18,15 @@ You can use the website to generate badges: https://shields.io/
 
 **Curious to learn more about me ?:**
 
-<!-- - I’m currently working on **[Directus-Electron](https://github.com/karamokoisrael/directus-electron)**. -->
-
+- I’m currently working on **[Flow2Pdf](https://github.com/karamokoisrael/directus-extension-flow2pdf)**.
 - I’m currently learning **Robotics** and **Blockchain technology**.
-- I’m looking to collaborate on anything!
 - Ask me about anything, I'll be glad to help.
 - How to reach me: **contact@karamokoisrael.tech**
 
 ---
 
-**Languages and Tools:**
-
+<!-- **Languages and Tools:** -->
+<!-- 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -81,6 +79,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   
-</p>
+</p> -->
 
-Last Edited on: 06/01/2024
+Last Edited on: 07/04/2024
