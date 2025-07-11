@@ -1,8 +1,13 @@
 <!-- Your title -->
 
-## Hello, I'm Israel Karamoko
 
-#### I am a self-taught software developer specializing in web and back-end development. My interests encompass problem-solving, research, mathematics, blockchain, AI, IOT and music. Fluent in French (my native language) and English, I am also in the process of learning Chinese. I thrive in collaborative environments and am enthusiastic about being part of a team dedicated to addressing real-world challenges.
+## 👋 Hello, I'm Israel Karamoko
+
+#### I'm a self-taught software developer who fell into the magical rabbit hole of web and back-end development — and decided to stay. I’m into solving problems, researching stuff that makes me go “huh!”, and diving deep into all things math, blockchain, AI, IoT... and music (I like playing in C# on keyboards 🎶).
+
+I speak French (bonjour 👋), English (hey there 👋), and I’m currently taming the dragon that is the Chinese language 🐉.
+Always curious, slightly obsessed with innovation, and always up for building cool things with awesome people.
+Also, I'm currently roaming the open source wilderness looking for interesting projects to contribute to 🧭✨
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 **Curious to learn more about me ?:**
 
-- I’m currently working on **[Flow2Pdf](https://github.com/karamokoisrael/directus-extension-flow2pdf)**.
+- I'm currently looking for interesting open source projects to contribute to.
 - I’m currently learning **Robotics** and **Blockchain technology**.
 - Ask me about anything, I'll be glad to help.
 - How to reach me: **contact@karamokoisrael.tech**
@@ -81,4 +86,4 @@ You can use the website to generate badges: https://shields.io/
   
 </p> -->
 
-Last Edited on: 07/04/2024
+<!-- Last Edited on: 07/04/2024 -->
