@@ -3,7 +3,7 @@
 
 ## 👋 Hello, I'm Israel Karamoko
 
-#### I'm a self-taught software developer who fell into the magical rabbit hole of web and back-end development — and decided to stay. I’m into solving problems, researching stuff that makes me go “huh!”, and diving deep into all things math, blockchain, AI, IoT... and music (I like playing C# — on both my IDE and my MIDI 🎶).
+#### I'm a self-taught software developer who fell into the magical rabbit hole of web and back-end development — and decided to stay. I’m into solving problems, researching stuff that makes me go “huh!”, and diving deep into all things math, blockchain, AI, IoT... and music (I like playing in C# on both my IDE and my MIDI 🎶).
 
 I speak French (bonjour 👋), English (hey there 👋), and I’m currently taming the dragon that is the Chinese language 🐉.
 Always curious, slightly obsessed with innovation, and always up for building cool things with awesome people.
