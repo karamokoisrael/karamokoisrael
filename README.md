@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Israel 👋
 
-#### Full Stack Developer passionate about Blockchain ⛓️ and automation 🤖. Love building things that actually solve problems.
+#### Full Stack Developer passionate about education 📚, blockchain ⛓️ and automation 🤖. Love building things that actually solve problems.
 
 #### Always excited to collaborate on open source projects, share knowledge, and learn from the community. Let's build something cool together! 🚀
 
@@ -21,11 +21,11 @@ You can use the website to generate badges: https://shields.io/
 **What's happening:**
 <!-- 
 - 🔨 Building **[Flow2Pdf](https://github.com/karamokoisrael/directus-extension-flow2pdf)** - contributions welcome! -->
-- 🎓 Exploring **AI** 🤖 and **Blockchain** ⛓️ - always happy to share learnings
+<!-- - 🎓 Exploring **AI** 🤖 and **Blockchain** ⛓️ - always happy to share learnings -->
 - 💬 Open to collaborations, code reviews, and tech discussions
 - 🤝 Looking for contributors and fellow open source enthusiasts
 - 📧 Let's connect: **contact@karamokoisrael.tech**
 
 ---
 
-Last Edited on: 12/08/2024
+Last Edited on: 04/29/2026
