@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Israel 👋
 
-#### Full Stack Developer passionate about education 📚, blockchain ⛓️ and automation 🤖. Love building things that actually solve problems.
+#### Software Engineer passionate about education 📚, blockchain ⛓️ and automation 🤖. Love building things that actually solve problems.
 
 #### Always excited to collaborate on open source projects, share knowledge, and learn from the community. Let's build something cool together! 🚀
 
